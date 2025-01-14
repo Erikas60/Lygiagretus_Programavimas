@@ -14,9 +14,13 @@ Using threading and parallel algorithms in C++ to perform tasks concurrently.
 CUDA Programming:
 
 Utilizing NVIDIA's CUDA framework to leverage GPU computing power for massively parallel tasks.
+
 ## Technologies Used
+
 The laboratory work was conducted using the following technologies:
 
 Go: Used for concurrent programming and task management with goroutines.
+
 C++: Applied for threading, parallel algorithms, and synchronization techniques.
+
 CUDA: Used for developing high-performance applications that run on NVIDIA GPUs.
