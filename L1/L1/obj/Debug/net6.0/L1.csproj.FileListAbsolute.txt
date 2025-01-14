@@ -1,0 +1,17 @@
+C:\Users\Erikas\OneDrive\III kursas\Lygiagretus L1\L1\L1\obj\Debug\net6.0\L1.csproj.AssemblyReference.cache
+C:\Users\Erikas\OneDrive\III kursas\Lygiagretus L1\L1\L1\obj\Debug\net6.0\L1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erikas\OneDrive\III kursas\Lygiagretus L1\L1\L1\obj\Debug\net6.0\L1.AssemblyInfoInputs.cache
+C:\Users\Erikas\OneDrive\III kursas\Lygiagretus L1\L1\L1\obj\Debug\net6.0\L1.AssemblyInfo.cs
+C:\Users\Erikas\OneDrive\III kursas\Lygiagretus L1\L1\L1\obj\Debug\net6.0\L1.csproj.CoreCompileInputs.cache
+C:\Users\Erikas\OneDrive\III kursas\Lygiagretus L1\L1\L1\bin\Debug\net6.0\L1.exe
+C:\Users\Erikas\OneDrive\III kursas\Lygiagretus L1\L1\L1\bin\Debug\net6.0\L1.deps.json
+C:\Users\Erikas\OneDrive\III kursas\Lygiagretus L1\L1\L1\bin\Debug\net6.0\L1.runtimeconfig.json
+C:\Users\Erikas\OneDrive\III kursas\Lygiagretus L1\L1\L1\bin\Debug\net6.0\L1.dll
+C:\Users\Erikas\OneDrive\III kursas\Lygiagretus L1\L1\L1\bin\Debug\net6.0\L1.pdb
+C:\Users\Erikas\OneDrive\III kursas\Lygiagretus L1\L1\L1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Erikas\OneDrive\III kursas\Lygiagretus L1\L1\L1\obj\Debug\net6.0\L1.csproj.CopyComplete
+C:\Users\Erikas\OneDrive\III kursas\Lygiagretus L1\L1\L1\obj\Debug\net6.0\L1.dll
+C:\Users\Erikas\OneDrive\III kursas\Lygiagretus L1\L1\L1\obj\Debug\net6.0\refint\L1.dll
+C:\Users\Erikas\OneDrive\III kursas\Lygiagretus L1\L1\L1\obj\Debug\net6.0\L1.pdb
+C:\Users\Erikas\OneDrive\III kursas\Lygiagretus L1\L1\L1\obj\Debug\net6.0\L1.genruntimeconfig.cache
+C:\Users\Erikas\OneDrive\III kursas\Lygiagretus L1\L1\L1\obj\Debug\net6.0\ref\L1.dll

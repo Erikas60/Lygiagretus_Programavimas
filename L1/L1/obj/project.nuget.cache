@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "INHkdm39NVgEeKxqDThibzfe6S3rZng2VQ/gcTptVKuEqcG9Dv76wJ3l26k3Dp9c5oXdwPeBfGAsXDGwNbOodQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Erikas\\OneDrive\\III kursas\\Lygiagretus\\L1\\L1\\L1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Erikas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
